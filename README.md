@@ -4,4 +4,4 @@ This is a solidity FundMe project.
 
 
 
-# Credit to Patrick Alpha
+@ Credit to Patrick Alpha

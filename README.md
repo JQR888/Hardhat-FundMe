@@ -1,7 +1,7 @@
 # Hardhat Fund Me
 
-This is a solidity project FundMe project.
+This is a solidity FundMe project.
 
 
 
-# Credit to Patrick Collins
+# Credit to Patrick Alpha
